@@ -1,0 +1,11 @@
+git merge
+git pull
+git push
+git remote
+git fetch
+git stash
+git reset
+git rebase
+git tag
+git blame
+git config
